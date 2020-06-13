@@ -1,5 +1,5 @@
 # eigenjs
 a javascript library for calculating eigenvalues and eigenvectors of hermitian or symmetric matrices
 
-#usage
+# usage
 copy the files you need to your projects
