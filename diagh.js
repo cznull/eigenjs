@@ -61,7 +61,7 @@
                     for (var j = i + 1; j < N; j++) {
                         if (abs(x[i * N + j]) >= e0) {
                             q = getq(x[i * N + i], x[j * N + j], x[i * N + j]);
-                            x = qaq(x, q, i, j, N);
+                            qaq(x, q, i, j, N);
                             flag++;
                         }
                     }
